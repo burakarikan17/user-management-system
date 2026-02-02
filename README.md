@@ -99,7 +99,7 @@ user-management/
 
 ## 🌐 Canlı Demo
 
-[Demo Linki](https://your-demo-link.netlify.app) *(Netlify'a deploy ettikten sonra güncellenecek)*
+[Demo Linki]https://burak-arikan-odev.netlify.app/
 
 ## 👨‍💻 Geliştirici
 
